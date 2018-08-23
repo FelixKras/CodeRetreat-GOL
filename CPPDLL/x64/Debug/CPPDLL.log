@@ -1,0 +1,5 @@
+﻿  Engine.cpp
+     Creating library C:\Users\Felix\Documents\Visual Studio 2017\Projects\GameOfLife\x64\Debug\CPPDLL.lib and object C:\Users\Felix\Documents\Visual Studio 2017\Projects\GameOfLife\x64\Debug\CPPDLL.exp
+CPPDLL.exp : warning LNK4070: /OUT:Engine.dll directive in .EXP differs from output filename 'C:\Users\Felix\Documents\Visual Studio 2017\Projects\GameOfLife\x64\Debug\CPPDLL.dll'; ignoring directive
+  CPPDLL.vcxproj -> C:\Users\Felix\Documents\Visual Studio 2017\Projects\GameOfLife\x64\Debug\CPPDLL.dll
+  CPPDLL.vcxproj -> C:\Users\Felix\Documents\Visual Studio 2017\Projects\GameOfLife\x64\Debug\CPPDLL.pdb (Partial PDB)

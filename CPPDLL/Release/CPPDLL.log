@@ -1,0 +1,2 @@
+﻿     Creating library C:\Users\Felix\documents\visual studio 2017\Projects\GameOfLIfe\Release\CPPDLL.lib and object C:\Users\Felix\documents\visual studio 2017\Projects\GameOfLIfe\Release\CPPDLL.exp
+LINK : fatal error LNK1561: entry point must be defined

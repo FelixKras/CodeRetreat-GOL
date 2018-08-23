@@ -1,0 +1,6 @@
+LIBRARY   Engine
+EXPORTS
+   Init   @1
+   CalcNewState   @2
+   
+   
