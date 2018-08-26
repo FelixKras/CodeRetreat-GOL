@@ -1,6 +1,6 @@
 # CodeRetreat-GOL-Platform
-This project is comprised of min UI application (c#) ehich allows testing GOL solutions (mannaged & unmannaged)
-The Dll's are loaded (as apose to refenced and/or linked) and run in the UI environment
+This project is comprised of a UI application (c#) which allows testing GOL solutions (mannaged & unmannaged) as DLL.
+The Dll's are dynamicaly loaded (as apose to referenced and/or linked) and run in the UI environment
 
 ![Alt text](MainScreen.png?raw=true "Main UI window")
 
